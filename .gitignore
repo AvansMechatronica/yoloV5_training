@@ -1,3 +1,4 @@
 SimpleFruits-1
 .venv
 runs
+*.pt
